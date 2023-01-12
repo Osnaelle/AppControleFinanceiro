@@ -1,0 +1,25 @@
+@import 'Resume.css';
+@import 'Header.css';
+@import 'ResumeItem.css';
+@import 'Form.css';
+@import 'Grid.css';
+@import 'GridItem.css';
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins', Sans-Serif;
+  background-color: #0F172A;
+
+ 
+}
+
+.title{
+  padding-top:20px;
+  color:white;
+  text-align:center;
+  font-size:30px;
+  font-weight: 300;
+}

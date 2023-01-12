@@ -1,0 +1,12 @@
+.container{
+    height: 100px;
+    text-align: center;
+    background-color: teal;
+    padding-top: 20px;
+    color: white;
+}
+
+.title{
+    padding-top: 20px;
+    color: white;
+}

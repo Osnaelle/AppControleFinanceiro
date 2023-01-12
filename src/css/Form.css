@@ -1,0 +1,61 @@
+.FormContainer{
+    max-width: 1120px;
+    margin: 20px auto;
+    width: 98%;
+    background-color: rgb(250, 250, 247) ;
+   
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0px;
+    gap: 10px ;
+
+    @media(max-width: 75px;){
+        display: grid;
+    }
+
+}
+
+.InputContent{
+    display: flex;
+    flex-direction: row;
+    gap:5px
+}
+
+.InputContent label{
+    margin-top: 5px;
+  
+}
+
+.FormContainer Input{
+    outline: none ;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+
+    
+}
+
+.RadioGroup{
+    display: flex;
+    align-items: center;
+ 
+}
+.RadioGroup input{
+    margin-left: 20px;
+    margin-right: 5px;
+    accent-color:teal;
+    margin-top: 0;
+}
+
+
+   
+button{
+    padding:  5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    background-color: teal;
+}

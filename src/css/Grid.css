@@ -1,0 +1,17 @@
+Table{
+  width: 98%;
+  background-color: #fff;
+  padding: 20px;
+  
+  border-radius: 5px;
+  max-width: 1120px;
+  margin: 20px auto;
+}
+
+Table th{ 
+  text-align: start;
+  border-bottom: inset;
+  padding-bottom: 5px;
+ 
+  width: 40% ;
+;}
