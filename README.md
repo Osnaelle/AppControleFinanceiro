@@ -1,4 +1,4 @@
-### Controle Financeiro
+### <h1 align="center" Controle Financeiro/h1>
 
 
 O App tem como funcionalidade o controle de gastos atráves das entradas e saídas disponibilizadas pelo usuário de forma a calcular automáticamente o saldo total.
