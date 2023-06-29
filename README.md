@@ -1,4 +1,4 @@
- ### <div align="center" >  Controle Financeiro></div
+ ### <div align="center" >  Controle Financeiro
 
 
 O App tem como funcionalidade o controle de gastos atráves das entradas e saídas disponibilizadas pelo usuário de forma a calcular automáticamente o saldo total.
@@ -11,7 +11,7 @@ O usuário insere um valor e uma descrição sobre e marca o input escolhendo se
 
 
 ### Tecnologias utilizadas:
-*HTML,
-*REACTJS, 
-*JAVASCRIPT  
-*CSS.
+*  HTML,
+* REACTJS, 
+* JAVASCRIPT  
+*  CSS.
